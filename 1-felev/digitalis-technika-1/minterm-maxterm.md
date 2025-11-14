@@ -1,4 +1,4 @@
-[vissza a listahoz](./index.md)
+[vissza a listához](./index.md)
 
 # Minterm - Maxterm tábla
 
