@@ -5,4 +5,4 @@
 > és egymással megosztott jegyzetek gyűjteménye. 
 > Hibás és/vagy elévült információkat is tartalmazhat!
 
-
+![](./assets/logo.svg)
