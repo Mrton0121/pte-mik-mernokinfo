@@ -1,3 +1,5 @@
+[vissza a listahoz](./index.md)
+
 # Minterm - Maxterm tábla
 
 A `\` a negálást jelöli
