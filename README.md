@@ -1,4 +1,4 @@
-# PTE-MIK Mérnökinformatikus képzés tananyagok
+# PTE-MIK Mérnökinformatikus képzés jegyzetek
 
 > [!CAUTION]
 > Ez nem egy hivatalos forrás, csak a diákok által összegyűjtött
